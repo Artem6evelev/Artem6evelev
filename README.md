@@ -46,4 +46,3 @@
 
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/art.temish/
-[facebook]: https://vk.com/vladislavkalachov
