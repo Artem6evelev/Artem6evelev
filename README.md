@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Vlad
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
