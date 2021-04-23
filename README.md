@@ -34,14 +34,7 @@
 - [What is Success?](https://www.instagram.com/p/CM9HfeyjeWH/?utm_source=ig_web_copy_link)
 - [3 Month to Become a Developer](https://www.instagram.com/p/CLfErtaAcIb/?utm_source=ig_web_copy_link)
 - [Method of Loci: Remember Everything](https://www.instagram.com/p/CLd6Nz8A3Yv/?utm_source=ig_web_copy_link)
-<!-- BLOG-POST-LIST:END -->
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
 
 [linkedin]: https://www.linkedin.com/in/artem-s-02527b172/
 [instagram]: https://www.instagram.com/art.temish/
