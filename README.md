@@ -29,7 +29,7 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
+- [The Obstacle](https://www.instagram.com/p/CNN28phgUp9/?utm_source=ig_web_copy_link)
 - [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
 - [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
 - [Пишем свой middleware для Redux](https://webtricks-master.ru/reactjs/pishem-svoj-middleware-dlya-redux/)
