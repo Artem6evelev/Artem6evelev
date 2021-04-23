@@ -30,10 +30,10 @@
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [The Obstacle](https://www.instagram.com/p/CNN28phgUp9/?utm_source=ig_web_copy_link)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-- [Пишем свой middleware для Redux](https://webtricks-master.ru/reactjs/pishem-svoj-middleware-dlya-redux/)
-- [Учим useLayoutEffect на примерах. Отличие хука useEffect от useLayoutEffect? — React Hooks](https://webtricks-master.ru/react-hooks/uchim-uselayouteffect-na-primerah-otlichie-huka-useeffect-ot-uselayouteffect-react-hooks/)
+- [Learning VS Winning the System (https://www.instagram.com/p/CMfo8sfjiAV/?utm_source=ig_web_copy_link)
+- [What is Success?](https://www.instagram.com/p/CM9HfeyjeWH/?utm_source=ig_web_copy_link)
+- [3 Month to Become a Developer](https://www.instagram.com/p/CLfErtaAcIb/?utm_source=ig_web_copy_link)
+- [Method of Loci: Remember Everything](https://www.instagram.com/p/CLd6Nz8A3Yv/?utm_source=ig_web_copy_link)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
