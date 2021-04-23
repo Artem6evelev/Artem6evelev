@@ -30,7 +30,7 @@
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [The Obstacle](https://www.instagram.com/p/CNN28phgUp9/?utm_source=ig_web_copy_link)
-- [Learning VS Winning the System (https://www.instagram.com/p/CMfo8sfjiAV/?utm_source=ig_web_copy_link)
+- [Learning VS Winning the System] (https://www.instagram.com/p/CMfo8sfjiAV/?utm_source=ig_web_copy_link)
 - [What is Success?](https://www.instagram.com/p/CM9HfeyjeWH/?utm_source=ig_web_copy_link)
 - [3 Month to Become a Developer](https://www.instagram.com/p/CLfErtaAcIb/?utm_source=ig_web_copy_link)
 - [Method of Loci: Remember Everything](https://www.instagram.com/p/CLd6Nz8A3Yv/?utm_source=ig_web_copy_link)
