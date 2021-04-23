@@ -43,5 +43,5 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
+[linkedin]: https://www.linkedin.com/in/artem-s-02527b172/
 [instagram]: https://www.instagram.com/art.temish/
