@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Artem
 
 ## I'm a FullStack Developer
-- 💪 I like to write code
-- 🎉 I love to speak Chinese
+- 💪 When I started coding till that time can't stop
+- 💯 I Speak Chinese like Chinese
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for my Instagram
+- ⚡ I like to write articles for my Instagram
 
 ### Connect with me:
 
