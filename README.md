@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Artem
 
 ## I'm a FullStack Developer
-- 💪 When I started coding till that time can't stop
+- 💪 Codiii🤖iiing
 - 💯 I Speak Chinese like Chinese
 - 🥅 I am constantly learning new things
 - ⚡ I like to write articles for my Instagram
