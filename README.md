@@ -8,7 +8,6 @@
 
 ### Connect with me:
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://www.linkedin.com/in/artem6evelev/" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -36,5 +35,5 @@
 - [Method of Loci: Remember Everything](https://www.instagram.com/p/CLd6Nz8A3Yv/?utm_source=ig_web_copy_link)
 
 
-[linkedin]: https://www.linkedin.com/in/artem-s-02527b172/
+[linkedin]: https://www.linkedin.com/in/artem6evelev/
 [instagram]: https://www.instagram.com/art.temish/
