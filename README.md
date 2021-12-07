@@ -12,7 +12,7 @@ I'm Islem Artem Shevelev a Full Stack Web Developer and Content Creator on [Yout
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: artem6evelev92@gmail.com.
-- ⚡ Fun fact: Made in USSR, lived 9 years on the "earth" China, Fall in love with Israel.
+- ⚡ Fun fact: Made in USSR, lived 9 years on the "planet" China, Fall in love with Israel.
 
 #### Top Technologies
 
