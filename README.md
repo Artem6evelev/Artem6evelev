@@ -38,7 +38,7 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=Artem6evelev&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Artem's github stats](https://github-readme-stats.vercel.app/api?username=Artem6evelev&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
