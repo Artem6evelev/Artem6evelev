@@ -30,11 +30,11 @@ I'm Islem Artem Shevelev a Full Stack Web Developer and Content Creator on [Yout
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why ARTcodeSH Youtube Channel exists!
 
 #### What is ARTcodeSH?
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+ARTcodeSH is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Github Stats
 
